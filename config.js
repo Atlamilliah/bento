@@ -17,7 +17,7 @@ const CONFIG = {
 
 	// Theme
 	theme: 'catpuccin',
-	imageBackground: true,
+	imageBackground: false,
 	
 	// Greetings
 	greetingMorning: 'Good morning!',
