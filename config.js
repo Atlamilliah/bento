@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: '',
+	name: '1',
 	openInNewTab: true,
 	twelveHourFormat: false,
 
