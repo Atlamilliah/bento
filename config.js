@@ -11,13 +11,13 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: '',
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Theme
 	theme: 'catpuccin',
-	imageBackground: false,
+	imageBackground: true,
 	
 	// Greetings
 	greetingMorning: 'Good morning!',
